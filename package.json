@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "This  is a sample of some of my recent work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryesung/portfolio.git"
+  },
+  "author": "Ryan McDonald",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryesung/portfolio/issues"
+  },
+  "homepage": "https://github.com/ryesung/portfolio#readme",
+  "dependencies": {
+    "config-yml": "^0.10.3"
+  }
+}
